@@ -1,0 +1,2 @@
+myVariable = 'Bob';
+myVariable = 'Steve';
